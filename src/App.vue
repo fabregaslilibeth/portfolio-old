@@ -1,8 +1,8 @@
 <template>
   <div class="font-sans text-gray-700 relative">
     <div class="fixed w-full bg-gray-200 p-6 shadow-xl flex items-center justify-between z-50">
-      <div class="font-display text-4xl font-semibold">
-        <a href="/"><span class="text-gray-700">beth</span></a>
+      <div class="font-cursive text-4xl font-semibold">
+        <a href="/"><span class="text-gray-700">Beth</span></a>
       </div>
 
       <div class="flex space-x-4 font-extrabold text-lg">
@@ -13,26 +13,35 @@
         <p><a href="#svg" class="uppercase cursor-pointer hover:text-primary duration-300">SVG</a></p>
       </div>
 
-      <!-- <div class="flex space-x-4 font-extrabold text-lg">
-          <router-link to="/portfolio/skills" class="uppercase cursor-pointer hover:text-primary duration-300">SKILLS</router-link>
-          <router-link to="/portfolio/projects" class="uppercase cursor-pointer hover:text-primary duration-300">PROJECTS</router-link>
-          <router-link to="/portfolio/about" class="uppercase cursor-pointer hover:text-primary duration-300">About</router-link>
-          <router-link to="/portfolio/contact" class="uppercase cursor-pointer hover:text-primary duration-300">Contact</router-link>
-          <router-link to="/portfolio/svg" class="uppercase cursor-pointer hover:text-primary duration-300">SVG</router-link>
-        </div> -->
     </div>
 
 
     <div class="fixed top-1/4 right-5 bg-gray-800 px-1 py-4 rounded-full space-y-3">
-      <p><a title="linkedin" href="https://ph.linkedin.com/in/lilibeth-fabregas-bb0a0a120" target="_blank"
-          class="px-2"><i class="fab fa-linkedin-in text-gray-50 hover:text-linkedin duration-300"></i></a></p>
-      <p><a title="youtube" href="https://www.youtube.com/channel/UCAsYo-w1L1zd0L8M6Zdk0Zg?view_as=subscriber"
-          target="_blank" class="px-2"><i class="fab fa-youtube text-gray-50 hover:text-youtube duration-300"></i></a>
+      <p>
+        <a title="linkedin" href="https://ph.linkedin.com/in/lilibeth-fabregas-bb0a0a120" target="_blank" class="px-2">
+          <i class="fab fa-linkedin-in text-gray-50 hover:text-linkedin duration-300"></i>
+        </a>
       </p>
-      <p><a title="github" href="https://github.com/fabregaslilibeth" target="_blank" class="px-2"><i
-            class="fab fa-github text-gray-50 hover:text-github duration"></i></a></p>
-      <p><a title="gitlab" href="https://gitlab.com/lilibethfabregas" target="_blank" class="px-2"><i
-            class="fab fa-gitlab text-gray-50 hover:text-gitlab duration"></i></a></p>
+
+      <p>
+        <a title="youtube" href="https://www.youtube.com/channel/UCAsYo-w1L1zd0L8M6Zdk0Zg?view_as=subscriber"
+          target="_blank" class="px-2">
+          <i class="fab fa-youtube text-gray-50 hover:text-youtube duration-300"></i>
+        </a>
+      </p>
+
+      <p>
+        <a title="github" href="https://github.com/fabregaslilibeth" target="_blank" class="px-2">
+          <i class="fab fa-github text-gray-50 hover:text-github duration"></i>
+        </a>
+      </p>
+
+      <p>
+        <a title="gitlab" href="https://gitlab.com/lilibethfabregas" target="_blank" class="px-2">
+          <i class="fab fa-gitlab text-gray-50 hover:text-gitlab duration"></i>
+        </a>
+      </p>
+
     </div>
 
 
@@ -57,7 +66,8 @@
     </div>
 
     <div class="bg-gray-800 text-white text-center py-4 text-xs">
-      <p>Lilibeth Fabregas  ||  CPA. Web Developer.</p>
+      <p>Lilibeth Fabregas || CPA. Web Developer.</p>
+      <p>Tools used for this portfolio: vuejs, tailwindcss</p>
       <p>Disclaimer: All photos used in projects are not mine.</p>
     </div>
     <router-view />

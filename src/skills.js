@@ -5,9 +5,10 @@ const skills = [
     background2: '#FD8430',
     background3: '#D9162C',
     background4: '#E35B2B',
-    color: '',
+    color: '#fb503b',
     image: 'logos/laravel.png',
-    icon: '../../logos/laravel.png'
+    icon: '../../logos/laravel.png',
+    experience: '3',
   },
   {
     name: 'vue',
@@ -15,9 +16,10 @@ const skills = [
     background2: '#40CFB7',
     background3: '#40C43D',
     background4: '#3DB6C4',
-    color: '',
+    color: '#42b883',
     image: 'logos/vue.png',
-    icon: '../../logos/vue.png'
+    icon: '../../logos/vue.png',
+    experience: '3',
   },
   {
     name: 'react',
@@ -25,9 +27,10 @@ const skills = [
     background2: '#56FDC2',
     background3: '#4D9EE3',
     background4: '#4DE3D9',
-    color: '',
+    color: '#5ed3f3',
     image: 'logos/react.png',
-    icon: '../../logos/react.png'
+    icon: '../../logos/react.png',
+    experience: '1',
   },
   // {
   //   name: 'express',
@@ -37,7 +40,8 @@ const skills = [
   //   background4: '#3D3937',
   //   color: '',
   //   image: 'logos/express.png',
-  //   icon: '../../logos/express.png'
+  //   icon: '../../logos/express.png',
+  //   experience: '',
   // },
   // {
   //   name: 'graphql',
@@ -47,7 +51,8 @@ const skills = [
   //   background3: '#F23F2C',
   //   color: '',
   //   image: 'logos/graphql.png',
-  //   icon: '../../logos/graphql.png'
+  //   icon: '../../logos/graphql.png',
+  //   experience: '',
   // },
   {
     name: 'node',
@@ -55,9 +60,10 @@ const skills = [
     background2: '#fff',
     background3: '#FD8430',
     background4: '#fff',
-    color: '',
+    color: '#53a044',
     image: 'logos/node.png',
-    icon: '../../logos/node.png'
+    icon: '../../logos/node.png',
+    experience: '1',
   },
   {
     name: 'tailwindcss',
@@ -65,9 +71,10 @@ const skills = [
     background2: '#19abb4',
     background3: '#19abb4',
     background4: '#19abb4',
-    color: '',
+    color: '#36b7f0',
     image: 'logos/tailwindcss.png',
-    icon: '../../logos/tailwindcss.png'
+    icon: '../../logos/tailwindcss.png',
+    experience: '1',
   },
   {
     name: 'bootstrap',
@@ -75,9 +82,10 @@ const skills = [
     background2: '#E366E3',
     background3: '#E36666',
     background4: '#D97362',
-    color: '',
+    color: '#523b77',
     image: 'logos/bootstrap.png',
-    icon: '../../logos/bootstrap.png'
+    icon: '../../logos/bootstrap.png',
+    experience: '2',
   },
   {
     name: 'sass',
@@ -85,9 +93,10 @@ const skills = [
     background2: '#E366E3',
     background3: '#E36666',
     background4: '#D97362',
-    color: '',
+    color: '#cf649a',
     image: 'logos/sass.png',
-    icon: '../../logos/sass.png'
+    icon: '../../logos/sass.png',
+    experience: '1',
   },
   {
     name: 'figma',
@@ -95,9 +104,10 @@ const skills = [
     background2: '#19abb4',
     background3: '#19abb4',
     background4: '#19abb4',
-    color: '',
+    color: '#a259ff',
     image: 'logos/figma.png',
-    icon: '../../logos/figma.png'
+    icon: '../../logos/figma.png',
+    experience: '1',
   },
   {
     name: 'mongodb',
@@ -105,9 +115,10 @@ const skills = [
     background2: '#A8BF37',
     background3: '#3AC953',
     background4: '#37BF76',
-    color: '',
+    color: '#54ad45',
     image: 'logos/mongo.png',
-    icon: '../../logos/mongo.png'
+    icon: '../../logos/mongo.png',
+    experience: '1',
   },
   {
     name: 'mysql',
@@ -115,9 +126,10 @@ const skills = [
     background2: '#089C65',
     background3: '#085FA6',
     background4: '#fff',
-    color: '',
+    color: '#5d87a1',
     image: 'logos/mysql.png',
-    icon: '../../logos/mysql.png'
+    icon: '../../logos/mysql.png',
+    experience: '2',
   },
   {
     name: 'github',
@@ -125,9 +137,10 @@ const skills = [
     background2: '#332E33',
     background3: '#332F2E',
     background4: '#332F2E',
-    color: '',
+    color: '#000000',
     image: 'logos/github.png',
-    icon: '../../logos/github.png'
+    icon: '../../logos/github.png',
+    experience: '3',
   },
   {
     name: 'gitlab',
@@ -135,9 +148,10 @@ const skills = [
     background2: '#fc6d26',
     background3: '#FD8430',
     background4: '#E35B2B',
-    color: '',
+    color: '#e24329',
     image: 'logos/gitlab.png',
-    icon: '../../logos/gitlab.png'
+    icon: '../../logos/gitlab.png',
+    experience: '3',
   },
 ]
 

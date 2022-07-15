@@ -20,6 +20,7 @@
 
     <p>Lilibeth Fabregas || CPA. Web Developer </p>
     <p>fabregaslilibeth@gmail.com || +63943-071-3628</p>
+    <p>Tools used for this portfolio: vuejs, tailwindcss</p>
 
     <div>
       <p>Disclaimer: All photos in the projects are not mine. </p>

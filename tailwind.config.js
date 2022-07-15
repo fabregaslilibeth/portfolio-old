@@ -6,6 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontSize: {
+        'xxs': '.625rem',
+        '3xs': '.5rem',
+      },
       colors: {
         button: '#ddd',
         background: '#EBECF0',
@@ -55,6 +59,17 @@ module.exports = {
         'active': 'inset 1px 1px 2px #BABECC, inset -1px -1px 2px #fff',
         'input': '0 3px 5px rgba(8, 129, 163, 0.3)',
         'smallBtn': '0 1px 2px #1d6464',
+      },
+      spacing: {
+        88: '22rem', //standard = 22rem * 4 = 88
+        100: '25rem', //standard = 25rem * 4 = 100
+        128: '32rem', //standard = 32rem * 4 = 128
+        136: '32rem', //standard = 34rem * 4 = 136
+        144: '36rem', //standard = 36rem * 4 = 144
+      },
+      transitionProperty: {
+        'height': 'height',
+        'spacing': 'margin, padding',
       }
     },
   },
