@@ -2,7 +2,7 @@
   <div class="font-sans text-gray-700 relative">
     <div class="fixed w-full bg-gray-200 p-6 shadow-xl flex items-center justify-between z-50">
       <div class="font-cursive text-4xl font-semibold">
-        <a href="/"><span class="text-gray-700">Beth</span></a>
+        <a href="/"><span class="text-gray-700">Bet</span></a>
       </div>
 
       <div class="flex space-x-4 font-extrabold text-lg">
