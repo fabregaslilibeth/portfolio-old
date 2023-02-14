@@ -6,7 +6,7 @@
 
     <div class="px-8 w-full md:w-1/2 h-full flex items-end pb-32 justify-center text-center">
       <div class="pt-20">
-        <h1 class="font-extrabold text-5xl tracking-wider">Lilibeth Fabregas</h1>
+        <h1 class="font-extrabold text-5xl tracking-wider">Beth Fabregas</h1>
         <p class="font-extrabold pt-4 uppercase text-xl tracking-widest">CPA. Web Developer.</p>
 
         <button class="cv-button text-xs"><span>View CV</span></button>
